@@ -7,7 +7,7 @@ Returns an random website
 ```js
 const useless = require(useless);
 
-console.log(useless.randomWebsite()); //http://heeeeeeeey.com/
+console.log(useless.randomWebsite()); //http://randomcolour.com/
 ```
 
 ### listWebsite()
